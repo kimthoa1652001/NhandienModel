@@ -1,4 +1,6 @@
-# CodeDoAnCS114
+# Nhận diện địa điểm du lịch nổi tiếng thông qua hình ảnh
+
+# Cài đặt demo
 ## Đầu tiên bật terminal hoặc cmd bên Windows , sau đó chạy lệnh dưới này :
 ```
 git clone https://github.com/hauphanlvc/CodeDoAnCS114.git
